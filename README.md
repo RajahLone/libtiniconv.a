@@ -1,2 +1,0 @@
-# libtiniconv.a
-# libtiniconv.a
